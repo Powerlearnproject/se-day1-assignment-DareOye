@@ -2,9 +2,9 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-**#Part 1: Introduction to Software Engineering**
+#Part 1: Introduction to Software Engineering
 
-**Explain what software engineering is and discuss its importance in the technology industry**
+Explain what software engineering is and discuss its importance in the technology industry
 Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software. It's about creating reliable, efficient, and cost-effective software solutions.  
 
 What Software Engineering Entails:
@@ -42,7 +42,7 @@ With the rise of cyber threats, software engineering plays a vital role in build
 
 
 
-**Identify and describe at least three key milestones in the evolution of software engineering.**
+Identify and describe at least three key milestones in the evolution of software engineering.
 The "Software Crisis" and the Birth of Software Engineering (Late 1960s):
 This period highlighted the challenges of developing large, complex software systems. The "software crisis" led to the recognition of the need for a structured, engineering-based approach to software development, leading to the formalization of software engineering.   
   
@@ -53,7 +53,7 @@ OOP revolutionized software design by promoting modularity and reusability.
 
  The rise of the internet further transformed software development, leading to distributed systems, web applications, and new development paradigms.
 
-**List and briefly explain the phases of the Software Development Life Cycle.**
+List and briefly explain the phases of the Software Development Life Cycle.
 Planning/Requirements Gathering:
 This phase defines the project's scope, goals, and requirements. It involves gathering input from stakeholders to understand their needs and expectations.
 Design:
@@ -67,8 +67,8 @@ This phase involves releasing the software to the users. The software is install
 Maintenance:
 This ongoing phase involves monitoring the software, fixing bugs, and providing updates and enhancements. It ensures the software continues to function correctly and meet evolving needs.
 
-**Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall Methodology:**
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall Methodology:
 
 Description:
 A linear, sequential approach where each phase is completed before moving to the next.   
@@ -106,8 +106,8 @@ Projects with rapidly changing requirements (e.g., web development, mobile apps)
 Projects where user feedback is essential (e.g., startups, innovative products).
 Projects where fast time to market is very important.
 
-**Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer:**
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer:
 
 Roles:
 Designs, develops, and maintains software applications.
@@ -152,8 +152,8 @@ Ensuring project deliverables are completed on time and within budget.
 Managing client expectations.
 Removing obstacles that block the team.
 
-**Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs):**
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs):
 
 Importance:
 IDEs streamline development by providing a unified interface for coding, debugging, and testing. They boost productivity and reduce errors.   
@@ -168,8 +168,8 @@ Git, SVN (Subversion).
 
 
 
-**What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Ever-Evolving Technologies:**
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Ever-Evolving Technologies:
 
 Challenge: The technology landscape changes rapidly, requiring constant learning.   
 Strategies:
@@ -218,8 +218,8 @@ Clear communication with stakeholders: Ensure everyone understands the impact of
 Flexibility: Be prepared to adapt and adjust plans as needed.
 Document all requirement changes.
 
-**Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing:**
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing:
 
 Description:
 Focuses on testing individual units or components of the software in isolation.   
@@ -274,10 +274,10 @@ Improve software security: By validating that the software is secure from vulner
 Sources and related content
 
 
-**#Part 2: Introduction to AI and Prompt Engineering**
+#Part 2: Introduction to AI and Prompt Engineering
 
 
-**Define prompt engineering and discuss its importance in interacting with AI models.**
+Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining text inputs, or "prompts," to elicit desired outputs from large language models (LLMs) and other AI systems. It involves crafting precise and effective instructions that guide the AI towards generating accurate, relevant, and useful responses.   
 
 Importance of Prompt Engineering:
@@ -299,7 +299,7 @@ For paid LLM services, well crafted prompts can reduce the amount of tokens used
 Increased safety:
 Prompt engineering can be used to add guardrails to LLM interactions, reducing the liklihood of the AI model generating unsafe or harmful content.
 
-**Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: "Write something about cats."
 
 Improved Prompt: "Generate a 3-sentence description of the Siberian cat breed, focusing on its physical characteristics."
